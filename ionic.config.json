@@ -1,0 +1,7 @@
+{
+  "name": "televisita",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
